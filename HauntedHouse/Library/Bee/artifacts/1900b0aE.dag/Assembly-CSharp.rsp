@@ -330,6 +330,7 @@
 "Assets/SampleScenes/Scripts/ParticleSceneControls.cs"
 "Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs"
 "Assets/SampleScenes/Scripts/SlowMoButton.cs"
+"Assets/Scripts/PlayerScript.cs"
 -langversion:8.0
 
 /deterministic
