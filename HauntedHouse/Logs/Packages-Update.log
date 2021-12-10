@@ -45,3 +45,22 @@ The following packages were added:
   com.unity.timeline@1.5.5
   com.unity.ugui@1.0.0
   com.unity.visualscripting@1.6.1
+
+=== Thu Dec  9 15:05:15 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.package-manager-ui@2.0.3
+  com.unity.purchasing@2.0.3
+
+=== Thu Dec  9 15:26:53 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.package-manager-ui@2.0.3
