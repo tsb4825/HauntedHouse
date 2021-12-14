@@ -115,6 +115,7 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll"
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll"
@@ -123,6 +124,7 @@
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll"
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
