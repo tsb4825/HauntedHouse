@@ -109,6 +109,9 @@
 -define:CROSS_PLATFORM_INPUT
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll"
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll"
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -304,6 +307,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.14f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-firstpass.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Analytics.DataPrivacy.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -330,8 +334,11 @@
 "Assets/SampleScenes/Scripts/ParticleSceneControls.cs"
 "Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs"
 "Assets/SampleScenes/Scripts/SlowMoButton.cs"
+"Assets/Scripts/DoorScript.cs"
 "Assets/Scripts/FireScript.cs"
+"Assets/Scripts/Interactable.cs"
 "Assets/Scripts/PlayerScript.cs"
+"Assets/Scripts/WorldInteractionScript.cs"
 -langversion:8.0
 
 /deterministic
