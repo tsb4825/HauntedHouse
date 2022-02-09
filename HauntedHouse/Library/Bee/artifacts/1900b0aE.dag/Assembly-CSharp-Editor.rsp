@@ -110,6 +110,7 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll"
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll"
@@ -119,6 +120,7 @@
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll"
+-r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"C:/Git/HauntedHouse/HauntedHouse/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -338,12 +340,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Nature/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs"
-"Assets/Nature/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs"
-"Assets/Nature/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs"
-"Assets/Nature/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
-"Assets/Nature/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
-"Assets/Nature/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
+"Assets/Imports/Nature/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs"
+"Assets/Imports/Nature/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs"
+"Assets/Imports/Nature/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs"
+"Assets/Imports/Nature/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
+"Assets/Imports/Nature/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
+"Assets/Imports/Nature/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
 -langversion:8.0
 
 /deterministic
